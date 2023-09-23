@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/g%c3%b6ktu%c4%9f-y%c4%b1ld%c4%b1z-71aa02206/](https://www.linkedin.com/in/goktug-yildiz-gy10/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/g%c3%b6ktu%c4%9f-y%c4%b1ld%c4%b1z-71aa02206/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/g%c3%b6ktu%c4%9f-y%c4%b1ld%c4%b1z-71aa02206/](https://www.linkedin.com/in/goktug-yildiz-gy10/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/goktug-yildiz-gy10/" height="30" width="40" /></a>
 <a href="https://instagram.com/goktugyildiz.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goktugyildiz.dev" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@goktug_7tepe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@goktug_7tepe" height="30" width="40" /></a>
 </p>
